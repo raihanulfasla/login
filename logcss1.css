@@ -1,0 +1,56 @@
+body{
+    background-color: aquamarine;
+}
+form{
+    background-color: white;
+    height: 40rem;
+}
+div{
+    width: 729px;
+    height: 44rem;
+    padding-left: 23rem;
+    padding-right: 10rem;
+    padding-top: 20px;
+}
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(23, 78, 60);
+    padding-top:90px;
+}
+input.p1{
+    height: 56px;
+    width: 589px;
+    margin-left: 59px;
+    border: ridge;
+    rad
+}
+input.p2{
+    height: 56px;
+    width: 589px;
+    margin-left: 59px;
+    border: ridge;
+}
+.p3{
+    margin-left: 59px;
+}
+.p4{
+    margin-left: 308px;
+    margin-top:70px;
+    border: none;
+    width: 118px;
+    height: 49px;
+    border-radius: 7px;
+    background-color: rgb(15, 97, 69);
+    color: white;
+}
+.L1{
+    margin-left: 268px;
+}
+span{
+    color: rgb(197, 20, 20);
+}
+.L2{
+    margin-left: 268px;
+    font-size: 17px;
+}
